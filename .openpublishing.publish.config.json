@@ -1,18 +1,5 @@
 {
-  "docsets_to_publish": [
-    {
-      "docset_name": "E2E_RepoSync_Public_PubDev_IntegrationTest",
-      "build_source_folder": "E2E_RepoSync_Public_PubDev_IntegrationTest",
-      "build_output_subfolder": "E2E_RepoSync_Public_PubDev_IntegrationTest",
-      "locale": "en-us",
-      "monikers": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs"
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
